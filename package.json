@@ -1,0 +1,32 @@
+{
+	"private": "true",
+	"scripts": {
+		"start": "next start",
+		"dev": "next dev",
+		"lint": "next lint",
+		"build": "next build"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/effectiveCoding/capstone.git"
+	},
+	"bugs": {
+		"url": "https://github.com/effectiveCoding/capstone/issues"
+	},
+	"homepage": "https://github.com/effectiveCoding/capstone#readme",
+	"author": "Anton Palermo <ANPalermo@outlook.com>",
+	"license": "MIT",
+	"dependencies": {
+		"next": "^12.1.0",
+		"react": "^17.0.2",
+		"react-dom": "^17.0.2"
+	},
+	"devDependencies": {
+		"@types/node": "^17.0.21",
+		"@types/react": "^17.0.40",
+		"eslint": "8.11.0",
+		"eslint-config-next": "12.1.0",
+		"prettier": "^2.6.0",
+		"typescript": "^4.6.2"
+	}
+}
