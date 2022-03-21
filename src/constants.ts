@@ -1,1 +1,1 @@
-export const __api = process.env.API_ENDPOINT
+export const __api = process.env.NEXT_PUBLIC_API_ENDPOINT
